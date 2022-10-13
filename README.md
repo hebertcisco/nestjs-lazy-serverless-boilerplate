@@ -20,12 +20,6 @@ npm run dev
 npm run deploy
 ```
 
-### Run docs
-
-```sh
-npm run dev:docs
-```
-
 or
 
 ```sh
