@@ -1,4 +1,4 @@
-# λ λ Nest.js (lazy modules) Serverless boilerplate
+# λ Nest.js (lazy modules) Serverless boilerplate
 
 [![Node.js CI](https://github.com/hebertcisco/nestjs-lazy-serverless-boilerplate/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/hebertcisco/nestjs-lazy-serverless-boilerplate/actions/workflows/build-and-test.yml)
 
