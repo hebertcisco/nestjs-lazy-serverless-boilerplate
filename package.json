@@ -28,7 +28,7 @@
         "@nestjs/common": "9.0.11",
         "@nestjs/core": "9.0.11",
         "@nestjs/mapped-types": "*",
-        "@nestjs/platform-express": "9.0.11",
+        "@nestjs/platform-express": "9.1.4",
         "@nestjs/swagger": "^6.1.2",
         "@vendia/serverless-express": "^4.10.1",
         "aws-lambda": "^1.0.7",
