@@ -41,7 +41,7 @@
         "nest-shared": "0.4.53",
         "reflect-metadata": "0.1.13",
         "rxjs": "7.5.7",
-        "swagger-ui-express": "4.5.0",
+        "swagger-ui-express": "4.6.0",
         "tsyringe": "4.7.0"
     },
     "devDependencies": {
